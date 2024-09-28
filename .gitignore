@@ -1,0 +1,5 @@
+node_modules/
+*.env
+config_buildneartgbot.env
+package-lock.json
+.prev_state.json
