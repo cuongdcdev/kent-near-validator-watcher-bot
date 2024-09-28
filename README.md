@@ -3,7 +3,7 @@
 
 ![help menu](img/help.png)	
 
-![bot demo in action](img/near-validator-info-telegram.png)	
+![bot demo in action](img/near-validator-watcher.png)	
 
 
 
