@@ -111,4 +111,7 @@ export const prepareSwitchingEpochInfo = (
   return fullMessage;
 };
 
-export const getPoolId = (poolId) => `\n 👷 ${poolId}\n`;
+export const getPoolId = (poolId) => {
+  const escapedPoolId = poolId.replace(/([_*`\[])/g, '\\$1');
+  return `\n 👷 ${escapedPoolId}\n`;
+};
