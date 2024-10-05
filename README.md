@@ -1,4 +1,4 @@
-## [PRIVATE] Introduction NEAR validator watcher bot 
+## NEAR validator watcher bot 
 
 
 ![help menu](img/help.png)	
